@@ -1,1 +1,1 @@
-[Авторы]({{site.baseurl}}/authors)
+[Авторы]({{site.baseurl}}authors)
