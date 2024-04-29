@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Jaba
+title: Jabba
 ---
 
 [Документация]({{site.baseurl}}/doc)
