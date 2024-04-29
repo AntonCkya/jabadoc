@@ -1,7 +1,7 @@
 # Язык программирования *F##* (название не окончательное)
 
-[Документация]({{site.baseurl}}doc)
+[Документация]({{site.baseurl}}/doc)
 
-[Установка]({{site.baseurl}}install)
+[Установка]({{site.baseurl}}/install)
 
-[Авторы]({{site.baseurl}}authors)
+[Авторы]({{site.baseurl}}/authors)
