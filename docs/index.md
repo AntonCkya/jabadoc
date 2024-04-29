@@ -1,6 +1,6 @@
 ---
-layout: page
-title: F##
+layout: post
+title: Jaba
 ---
 
 [Документация]({{site.baseurl}}/doc)

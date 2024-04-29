@@ -1,3 +1,5 @@
 remote_theme: jekyll/minima
 plugins:
   - jekyll-remote-theme
+header_pages:
+  - index.md
