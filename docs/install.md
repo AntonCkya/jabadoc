@@ -7,6 +7,7 @@ title: "Установка"
 
 ### Требования
 .NET 7 версии или ниже
+
 Скачать можно по [ссылке](https://dotnet.microsoft.com/en-us/download)
 
 ### Установка
