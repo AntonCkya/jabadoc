@@ -11,6 +11,6 @@ title: "TODO: придумать название"
 | Чапкин Владислав | Разработка расширения для VS Code                | https://github.com/MLGBrotishka |
 | YaGPT            | Помощь в написании отчёта                        |                                 |
 
-![alt_text](./img/frog6.png)
+![alt_text](./img/frog6.jpeg)
 
 [На главную]({{site.baseurl}})

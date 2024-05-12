@@ -27,6 +27,6 @@ git clone https://github.com/MAILabs-Edu-2024/fp-compiler-lab-todo.git
 dotnet run program.kwuh
 ```
 
-![alt_text](./img/frog7.png)
+![alt_text](./img/frog7.jpeg)
 
 [На главную]({{site.baseurl}})
