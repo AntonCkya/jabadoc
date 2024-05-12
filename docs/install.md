@@ -2,6 +2,8 @@
 title: "Установка"
 ---
 
+![alt_text](./img/frog2.png)
+
 ### Требования
 .NET 7 версии или ниже
 
@@ -19,10 +21,12 @@ git clone https://github.com/MAILabs-Edu-2024/fp-compiler-lab-todo.git
 ### Запуск
 Программа на языке Jaba имеют расширение `.kwuh`
 
+Для запуска необходимо находиться в директории с проектом
+
 ```bash
 dotnet run program.kwuh
 ```
 
-![alt_text](./img/frog2.png)
+![alt_text](./img/frog7.png)
 
 [На главную]({{site.baseurl}})
