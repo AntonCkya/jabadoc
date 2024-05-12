@@ -2,16 +2,19 @@
 title: "Установка"
 ---
 
-**TODO: Антон напишет**
-дада я
-
 ### Требования
 .NET 7 версии или ниже
 
 Скачать можно по [ссылке](https://dotnet.microsoft.com/en-us/download)
 
 ### Установка
-*Требования, как установить*
+Клонируйте репозиторий с проектом:
+
+```bash
+git clone https://github.com/MAILabs-Edu-2024/fp-compiler-lab-todo.git
+```
+
+Либо скачайте его в виде архива со страницы на [гитхабе](https://github.com/MAILabs-Edu-2024/fp-compiler-lab-todo)
 
 ### Запуск
 Программа на языке Jaba имеют расширение `.kwuh`
