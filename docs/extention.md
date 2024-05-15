@@ -2,7 +2,9 @@
 title: "Расширение для VS Code"
 ---
 
-## Расширение для VS Code - Jaba's Swamp 
+## Jaba's Swamp 
+
+![alt_text](./img/frog11.jpeg)
 
 Расширение добавляет поддержку языка Jaba в Vscode.
 
