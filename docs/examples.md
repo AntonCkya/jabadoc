@@ -2,8 +2,6 @@
 title: "Примеры"
 ---
 
-## Примеры
-
 ![alt_text](./img/frog5.jpeg)
 
 Примеры программ можно найти [здесь](https://github.com/MAILabs-Edu-2024/fp-compiler-lab-todo/tree/main/samples).
