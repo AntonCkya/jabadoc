@@ -29,10 +29,9 @@ title: "Примеры"
 
 ```jaba
 (frog fact {n}
-(if (< n 2)
-then 1
-else (* n (fact (- n 1)))
-)
+    (if (< n 2)
+        then 1
+    else (* n (fact (- n 1))) )
 )
 (jout (fact 5))
 ```
